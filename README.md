@@ -1,11 +1,11 @@
-# 🛳️ Titanic Survival Prediction
+# Titanic Survival Prediction
 
 This is my first end-to-end Machine Learning project using the famous Titanic dataset from Kaggle.  
 The goal is to predict whether a passenger survived the Titanic disaster using various features like age, class, gender, etc.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 - ✅ Dataset: Titanic (from [Kaggle](https://www.kaggle.com/competitions/titanic))
 - ✅ Model Used: **Logistic Regression**
@@ -18,7 +18,7 @@ The goal is to predict whether a passenger survived the Titanic disaster using v
 
 ---
 
-## 🔍 Steps Followed
+## Steps Followed
 
 1. **Data Exploration & Cleaning**
    - Checked for missing values
@@ -47,14 +47,14 @@ The goal is to predict whether a passenger survived the Titanic disaster using v
 
 ---
 
-## 📂 Files
+## Files
 
 - `titanic_survival_prediction.ipynb`: Main notebook with full code
 - `README.md`: Project description and workflow
 
 ---
 
-## 🚀 What's Next?
+##  What's Next?
 
 This is just the start of my ML journey.  
 Next steps:
