@@ -8,13 +8,13 @@ The goal is to predict whether a passenger survived the Titanic disaster using v
 ## Project Overview
 
 - ✅ Dataset: Titanic (from [Kaggle](https://www.kaggle.com/competitions/titanic))
-- ✅ Model Used: **Logistic Regression**
+- ✅ Model Used: **Logistic Regression and descion tree**
 - ✅ Accuracy Achieved: **81%**
 - ✅ Tools & Libraries:
   - Python
   - Pandas, NumPy
   - Seaborn, Matplotlib
-  - Scikit-learn (Logistic Regression, train/test split, metrics)
+  - Scikit-learn (Logistic Regression, descion tree, train/test split, metrics)
 
 ---
 
@@ -34,7 +34,7 @@ The goal is to predict whether a passenger survived the Titanic disaster using v
    - Selected the most relevant columns for the model
 
 4. **Model Training**
-   - Trained a **Logistic Regression** model
+   - Trained a **Logistic Regression and descion tree** model
    - Evaluated using accuracy score on validation set
 
 ---
